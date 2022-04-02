@@ -1,0 +1,4 @@
+1. Extract the Zip and install.
+2. Office file save as "1click.cmd".
+3. Right click on "1click.cmd" and run as administrator.
+4. Enjoy using MS Office
